@@ -15,3 +15,5 @@ openssl enc -aes-128-cbc -d -in cipher.bin -out decrypted.txt -K 2b7e151628aed2a
 ```
 
 
+## Task1 : CFB MODE
+This is for encryption. The cipher.txt file is located [here](https://github.com/Safayet-Rafi/Information-Network-Secuirity/tree/main/Lab3/Task1/CFB).
